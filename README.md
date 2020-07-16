@@ -1,8 +1,8 @@
 ### **PIZZA ORDERING SYSTEM**
 
 ****
-#### Authors: [Karen Ngala](https://github.com/KarenNgala)
-####      && ,     [Mishael Ndegwa]
+#### Authors:(1) [Karen Ngala](https://github.com/KarenNgala)
+####      && , (2) [Mishael Ndegwa](https://github.com/mishael254)
 
 #### **Description**
 This is an online ordering system for a fictional local pizza shop trying to expand its customer base.
