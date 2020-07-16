@@ -2,6 +2,7 @@
 
 ****
 #### Authors: [Karen Ngala](https://github.com/KarenNgala)
+####      && ,     [Mishael Ndegwa]
 
 #### **Description**
 This is an online ordering system for a fictional local pizza shop trying to expand its customer base.
