@@ -34,7 +34,7 @@ $ source virtual/bin/activate
 
 #### **Contact**
 >Karen Ngala - ngalalalu@gmail.com
->Mishael Ndegwa - mishael254@gmail.com
+>Mishael Ndegwa - mishaelndegwa@gmail.com
 
 #### **Copyright & License**
 Distributed under the MIT License. See LICENSE for more information on license and copyright. 
